@@ -1,0 +1,23 @@
+{
+  // Config for markdownlint-cli2 — see .github/workflows/lint.yml
+  "config": {
+    "default": true,
+
+    // Long prose lines are fine; GitHub soft-wraps them.
+    "MD013": false,
+
+    // Badges and centering need a little inline HTML.
+    "MD033": false,
+
+    // Emoji-prefixed headings are intentional on a profile README.
+    "MD026": { "punctuation": ".,;:!" },
+
+    // Allow duplicate headings in different sections.
+    "MD024": { "siblings_only": true },
+
+    // The profile README's first line is its H1.
+    "MD041": true
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules/**"]
+}
