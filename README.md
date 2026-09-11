@@ -3,7 +3,7 @@
 IT Infrastructure & Identity Engineer at **Brinks Home** · Dallas, TX
 
 I look after the systems people sign in to, collaborate in, and quietly depend on:
-identity and privileged access, collaboration and messaging platforms, cloud
+the identity platform, privileged access, collaboration and messaging, cloud
 infrastructure, and the automation that keeps all of it from becoming manual work.
 
 [![Blog](https://img.shields.io/badge/Blog-musingsofmy.today-6A5ACD?style=flat-square&logo=rss&logoColor=white)](https://musingsofmy.today)
@@ -16,8 +16,8 @@ infrastructure, and the automation that keeps all of it from becoming manual wor
 
 | Area | What that looks like day to day |
 | --- | --- |
-| **Identity & Access (IAM)** | Directory hygiene, group and license governance, joiner–mover–leaver lifecycle, conditional access and SSO integrations |
-| **Privileged Access (PAM)** | Vaulting and brokering admin credentials, session control, least-privilege reviews, removing standing access |
+| **Identity platform (IdP)** | Entra ID and Active Directory as the identity provider — tenant administration, directory sync, conditional access, and SSO / app integrations |
+| **Privileged access (PAM)** | Vaulting and brokering admin credentials, session control, and least-privilege reviews |
 | **Collaboration & messaging** | Microsoft 365, Exchange Online and hybrid mail flow, Teams, SharePoint, mail hygiene and deliverability |
 | **Cloud & infrastructure** | Azure services, Windows Server, virtual desktop platforms, monitoring and capacity |
 | **Automation & orchestration** | Scheduled and event-driven jobs, PowerShell tooling, replacing recurring tickets with repeatable runbooks |
@@ -35,27 +35,23 @@ infrastructure, and the automation that keeps all of it from becoming manual wor
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Identity & access
+### Identity & privileged access
 
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0067B8?style=flat-square&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-1F6FEB?style=flat-square&logo=microsoft&logoColor=white)
-![PAM](https://img.shields.io/badge/Privileged%20Access-A31515?style=flat-square&logo=keycdn&logoColor=white)
-![SSO / SAML](https://img.shields.io/badge/SSO%20%2F%20SAML-4B0082?style=flat-square&logo=auth0&logoColor=white)
+![BeyondTrust](https://img.shields.io/badge/BeyondTrust%20PAM-A31515?style=flat-square&logo=beyondtrust&logoColor=white)
 
 ### Collaboration
 
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
-![Exchange](https://img.shields.io/badge/Exchange%20Online-0078D4?style=flat-square&logo=microsoftexchange&logoColor=white)
+![Exchange Online](https://img.shields.io/badge/Exchange%20Online-0078D4?style=flat-square&logo=microsoftexchange&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 
 ### Automation & tooling
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![VisualCron](https://img.shields.io/badge/VisualCron-2C6E9B?style=flat-square&logo=clockify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
@@ -63,7 +59,9 @@ infrastructure, and the automation that keeps all of it from becoming manual wor
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![VisualCron](https://img.shields.io/badge/VisualCron-2C6E9B?style=flat-square&logo=clockify&logoColor=white)
+
+*…plus the long tail of platforms that come with running infrastructure.*
 
 ## 💞 Looking to collaborate on
 
