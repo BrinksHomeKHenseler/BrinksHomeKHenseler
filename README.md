@@ -16,16 +16,15 @@ infrastructure, and the automation that keeps all of it from becoming manual wor
 
 | Area | What that looks like day to day |
 | --- | --- |
-| **Identity platform (IdP)** | Entra ID and Active Directory as the identity provider — tenant administration, directory sync, conditional access, and SSO / app integrations |
+| **Identity platform (IdP)** | Entra ID and Active Directory as the identity provider — tenant administration, directory sync, and conditional access |
 | **Privileged access (PAM)** | Vaulting and brokering admin credentials, session control, and least-privilege reviews |
-| **Collaboration & messaging** | Microsoft 365, Exchange Online and hybrid mail flow, Teams, SharePoint, mail hygiene and deliverability |
+| **Collaboration & messaging** | The Microsoft 365 platform end to end — Exchange Online and hybrid mail flow, Teams, SharePoint and OneDrive, tenant service configuration, mail hygiene and deliverability |
 | **Cloud & infrastructure** | Azure services, Windows Server, virtual desktop platforms, monitoring and capacity |
-| **Automation & orchestration** | Scheduled and event-driven jobs, PowerShell tooling, replacing recurring tickets with repeatable runbooks |
+| **Automation & orchestration** | Hosting and supporting the VisualCron scheduling platform, PowerShell tooling, and replacing recurring tickets with repeatable runbooks |
 
 ## 🌱 Currently learning
 
 - **Infrastructure as Code** — describing environments in version control instead of clicking through portals
-- **VisualCron** — job orchestration and event-driven scheduling across systems
 - **Automation-first operations** — turning the recurring 20% of the ticket queue into code
 
 ## 🧰 Tech I work with
@@ -33,8 +32,8 @@ infrastructure, and the automation that keeps all of it from becoming manual wor
 ### Cloud & platforms
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Identity & privileged access
 
@@ -42,24 +41,24 @@ infrastructure, and the automation that keeps all of it from becoming manual wor
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-1F6FEB?style=flat-square&logo=microsoft&logoColor=white)
 ![BeyondTrust](https://img.shields.io/badge/BeyondTrust%20PAM-A31515?style=flat-square&logo=beyondtrust&logoColor=white)
 
-### Collaboration
+### Collaboration — Microsoft 365
 
-![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
 ![Exchange Online](https://img.shields.io/badge/Exchange%20Online-0078D4?style=flat-square&logo=microsoftexchange&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 
 ### Automation & tooling
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![VisualCron](https://img.shields.io/badge/VisualCron-2C6E9B?style=flat-square&logo=clockify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
 ### Exploring
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![VisualCron](https://img.shields.io/badge/VisualCron-2C6E9B?style=flat-square&logo=clockify&logoColor=white)
 
 *…plus the long tail of platforms that come with running infrastructure.*
 
